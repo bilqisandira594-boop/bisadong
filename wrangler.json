@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "bisadong",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "d73cdc38-707f-43f0-b265-dcac0e60c4b5",
+			"database_name": "bisadong"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
